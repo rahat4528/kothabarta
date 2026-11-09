@@ -34,7 +34,7 @@ npm run build
 
 ## Contributors
 
-- **Mahamudul Hasan Rahat** ([@Rahat69x](https://github.com/Rahat69x))
+- **Mahamudul Hasan Rahat** ([@rahat4528](https://github.com/rahat4528))
 
-View detailed statistics on the [Contributors Graph](https://github.com/Rahat69x/kothabarta/graphs/contributors).
+View detailed statistics on the [Contributors Graph](https://github.com/rahat4528/kothabarta/graphs/contributors).
 
